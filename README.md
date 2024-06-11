@@ -37,3 +37,16 @@ The dataset consists of accelerometer data for 15 subjects, which can be accesse
 - **Entropy and Complexity Analysis**: Computing permutation entropy and complexity with varying parameters.
 - **Data Visualization**: Creating scatter plots using Matplotlib and Seaborn.
 - **Python Programming**: Utilizing Python libraries like Pandas, NumPy, and Matplotlib.
+
+## Learnings
+
+- **Comprehensive Time Series Analysis:** Successfully transformed accelerometer time series data into complex networks using NVG and HVG, and conducted in-depth analysis of metrics to reveal structural differences in the data.
+
+- **Detailed Entropy and Complexity Study:** Conducted extensive analysis of permutation entropy and complexity across various parameters, and explored the impact of these parameters, providing detailed insights into the data's randomness and complexity.
+
+- **Effective Data Preprocessing and Visualization:** Improved data pre-processing skills, including handling missing values and scaling, and enhanced data visualization skills, including creating scatter plots to clearly illustrate relationships between metrics, highlighting patterns and trends associated with different activities. 
+
+- **Real-World Application and Practical Skills:** Applied theoretical knowledge to real human activity data, demonstrating practical implementation skills and gaining valuable experience in handling and analyzing real-world datasets.
+
+## Results
+In this project, we successfully applied NVG and HVG to the time series data, computed the relevant metrics, and visualized the results. The entropy and complexity analysis provided further insights into the structure of the activities.
